@@ -26,7 +26,7 @@ This project follows **production best practices** and closely resembles real-wo
 ---
 
 ## 🏗️ High-Level Architecture
-
+```
 User / Browser
    ↓
 Internet Gateway
@@ -43,7 +43,7 @@ CloudWatch Metrics
       ├─ Scale Out / Scale In (Auto Scaling)
       ├─ Dashboard Visualization
       └─ SNS Email Alerts
-
+```
 
 ---
 
